@@ -3,3 +3,9 @@
 		$(this).fadeOut();
 	});
 </script>
+
+<script type=text/javascript”>
+	$(“div”).click(function() {
+		$(this).hide();
+	});
+</script>
